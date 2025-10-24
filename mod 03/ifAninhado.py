@@ -3,6 +3,7 @@ print('Bem vindo(a) a aula!')
 altura = float(input('Qual a sua altura? '))
 conta = 0
 
+
 if altura >= 1.20:
    print('Vende o ingresso') # esse recuo do print é importante, pois indica que ele está dentro do if e else
    idade = int(input('Qual é a sua idade? '))
